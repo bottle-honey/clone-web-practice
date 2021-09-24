@@ -1,0 +1,9 @@
+
+.top-nav-bar__content{
+    display:flex;
+    justify-content: space-between;
+    font-size: 11px;
+}
+.top-nav-bar__column span{
+    margin-right:10px;
+}
