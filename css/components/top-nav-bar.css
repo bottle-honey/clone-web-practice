@@ -1,9 +1,13 @@
-
-.top-nav-bar__content{
-    display:flex;
-    justify-content: space-between;
-    font-size: 11px;
+.top-nav-bar {
+  background-color: RGB(240, 240, 240);
 }
-.top-nav-bar__column span{
-    margin-right:10px;
+.top-nav-bar__content {
+  display: flex;
+  padding: 10px 0;
+  margin: 0px 450px;
+  justify-content: space-between;
+  font-size: 11px;
+}
+.top-nav-bar__column span {
+  margin-right: 10px;
 }
