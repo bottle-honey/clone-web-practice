@@ -1,0 +1,34 @@
+.main-board__title {
+  display: flex;
+  align-items: center;
+}
+.main-board__text:first-child {
+  padding-right: 10px;
+}
+.main-board__text:last-child {
+  padding-left: 7px;
+  border-left: 1px solid rgba(0, 0, 0, 0.8);
+}
+.main-board__box {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 15px;
+}
+.main-board__row img {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 4px;
+}
+.main-board {
+  margin-bottom: 60px;
+}
+.main-board__title-2 {
+  flex-direction: column;
+  align-items: baseline;
+  justify-self: center;
+}
+
+.main-board__title-2 h4 {
+  margin: 0px;
+}
+.main-board__title-2 h2 {
+  margin-top: 0px;
+}
